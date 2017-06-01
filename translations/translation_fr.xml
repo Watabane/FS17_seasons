@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <l10n>
-    <translationContributors>thierry62, Marxtai, theSeb, dural, Anonymous</translationContributors>
+    <translationContributors>thierry62, Marxtai, theSeb, dural, Alex, Anonymous</translationContributors>
     <texts>
         <text name="input_SEASONS_SHOW_WF" text="Seasons: Afficher les prévisions" />
         <text name="input_SEASONS_REPAIR_VEHICLE" text="Seasons: Réparation de véhicule" />
@@ -73,7 +73,7 @@
         <text name="SS_SAVE_FAILED" text="Échec de l'enregistrement de votre partie. Veuillez réessayer!" />
 
         <text name="SS_SEASON_INTRO_0" text="Nouvelle année pour semer." />
-        <text name="SS_SEASON_INTRO_1" text="Le soleil est haut, la récolte grandit." />
+        <text name="SS_SEASON_INTRO_1" text="Le soleil est haut, la récolte a grandit." />
         <text name="SS_SEASON_INTRO_2" text="La période de récolte est arrivée. Préparez-vous pour l'hiver, les récoltes pourraient ne pas résister au froid." />
         <text name="SS_SEASON_INTRO_3" text="Il fait froid. Le sol est dur, probablement gelé. La récolte ne grandit pas" />
         <text name="SS_BUTTON_OK" text="OK" />
@@ -117,11 +117,11 @@
 
         <text name="dialog_applySettings" text="Êtes-vous certain de vouloir changer les paramètres de Saisons? Des changements à la durée et à la croissance peuvent résulter en des champs qui seront réparés après une année (temps de jeu) seulement." />
         <text name="dialog_resetGrowth" text="Vous avez chargé des Saisons sur une vieille sauvegarde. Les saisons veulent remettre tous les champs(domaines) à leur état nu pour synchroniser avec le jour du jeu en cours. Vous perdrez toute la récolte. Si vous ne remettez pas de croissance, les Saisons ne pourraient pas marcher comme attendu." />
-        <text name="dialog_resetGrowth_title" text="Remise a zéro dela croissance" />
+        <text name="dialog_resetGrowth_title" text="Remise a zéro de la croissance" />
         <text name="dialog_resetGrowth_no" text="maintenir la croissance" />
         <text name="dialog_resetGrowth_yes" text="réinitialisation" />
         <text name="dialog_timeTravel" text="Le jeu synchronise après avoir avancer rapidement" />
-        <text name="dialog_sleeping" text="Se reposer pendant un autre jour à la ferme... Zzz.." />
+        <text name="dialog_sleeping" text="Se reposer un autre jour à la ferme... Zzz.." />
 
         <text name="fillType_snow" text="Neige" />
 
@@ -139,7 +139,7 @@
 
         <text name="ss_helpTitle_03" text="Effets saisonniers (2)" />
         <text name="ss_helpText_03_01" text="La journée est aussi affectée par la saison. En hiver, les jours seront plus courts (8 heures) alors qu'en été ils seront plus longs (17 Heures)." />
-        <text name="ss_helpText_03_02" text="Les silos et balles d'ensilage nécessiteront du temps pour fermenter. Cela prendra un tiers d'une saison (1 transition) pour atteindre une fermentation complète. Le foin enrubanné ne fermentera pas, mais sera protégé contre les intempéries." />
+        <text name="ss_helpText_03_02" text="Les silos et balles d'ensilage nécessiteront du temps pour fermenter. Cela prendra un tiers de saison (1 transition) pour atteindre une fermentation complète. Le foin enrubanné ne fermentera pas, mais sera protégé contre les intempéries." />
         <text name="ss_helpText_03_03" text="Le mod Seasons affectera aussi les arbres et la végétation. Les arbres changeront d'état en fonction des changements de température saisonniers. Les feuilles changeront de couleur et tomberont en automne. Les arbres seront nus en hiver et vert clair au printemps." />
 
         <text name="ss_helpTitle_04" text="Prévisions météo" />
@@ -203,7 +203,7 @@
 
         <text name="ss_helpTitle_15" text="Animaux - Production" />
         <text name="ss_helpText_15_01" text="La production de lait et de laine dépend de la saison." />
-        <text name="ss_helpText_15_02" text="La laine est seulement produite au printemps." />
+        <text name="ss_helpText_15_02" text="La laine est seulement produite au printemps et en été." />
         <text name="ss_helpText_15_03" text="La production de lait se fait toute l'année mais elle est augmentée en hiver et au printemps. Comme on ne peut pas donner d'herbe pendant l'hiver, normalement, la productivité des vaches ne pourrait être que de 80% au mieux. Cependant, le mod Seasons augmente la production pour compenser cette perte de productivité." />
 
         <text name="ss_helpTitle_16" text="Menu Saisons" />
